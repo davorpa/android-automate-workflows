@@ -42,8 +42,23 @@ I also have in mind some useful integration ones between each others. E.g.
 
 ## But... what is **[Automate](https://llamalab.com/automate/)**?
 
-![Automate. Make your phone or tablet smarter with automation](./assets/automate-banner.png)
+[![Automate. Make your phone or tablet smarter with automation](./assets/automate-banner.png)](https://llamalab.com/automate/)
 
-|   |   |
-|---|---|
-| ![Application icon](./assets/automate-icon-256.png) | The free [Android™ application Automate]([https://link](https://play.google.com/store/apps/details?id=com.llamalab.automate)) lets you automate various tasks on your smartphone or tablet. Create your automations with flowscharts, make your device automatically change settings like Bluetooth, Wi-Fi, NFC or perform actions like sending SMS, e-mail, based on your location, the time of day, or any other “event trigger”. You can automate almost everything on your device, Automate even support plug-ins made for [Tasker]([https://link](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)) and [Locale]([https://link](https://play.google.com/store/apps/details?id=com.twofortyfouram.locale)).|
+<div style="float:left;">
+
+![Application icon](./assets/automate-icon-128.png)
+
+</div>
+<div style="margin-left: 150px">
+
+The free [Android™ application Automate]([https://link](https://play.google.com/store/apps/details?id=com.llamalab.automate))
+lets you automate various tasks on your smartphone or tablet.
+Create your automations with flowscharts, make your device automatically change
+settings like Bluetooth, Wi-Fi, NFC or perform actions like sending SMS, e-mail,
+based on your location, the time of day, or any other “event trigger”.
+You can automate almost everything on your device, Automate even support plug-ins
+made for [Tasker]([https://link](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm))
+and
+[Locale]([https://link](https://play.google.com/store/apps/details?id=com.twofortyfouram.locale)).
+
+</div>
