@@ -52,8 +52,8 @@ Create your automations with flowscharts, make your device automatically change
 settings like Bluetooth, Wi-Fi, NFC or perform actions like sending SMS, e-mail,
 based on your location, the time of day, or any other “event trigger”.
 You can automate almost everything on your device, Automate even support plug-ins
-made for [Tasker]([https://link](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm))
+made for [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 and
-[Locale]([https://link](https://play.google.com/store/apps/details?id=com.twofortyfouram.locale)).
+[Locale](https://play.google.com/store/apps/details?id=com.twofortyfouram.locale).
 
 <br clear="right"/>
