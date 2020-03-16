@@ -1,0 +1,56 @@
+{
+    "editor.rulers": [
+        {
+            "column": 79,
+            "color": "#ff550638"
+        },
+        100, // <- a ruler in the default color or as customized at column 0
+        {
+            "column": 120,
+            "color": "#530606"
+        },
+    ],
+    "spellright.language": ["en"],
+    "spellright.documentTypes": [
+        "css",
+        "git-commit",
+        "json",
+        "latex",
+        "less",
+        "markdown",
+        "plaintext",
+        "scss",
+        "text",
+        "yaml",
+        "yml"
+    ],
+    "cSpell.enableFiletypes": [
+        "css",
+        "git-commit",
+        "json",
+        "latex",
+        "less",
+        "markdown",
+        "plaintext",
+        "scss",
+        "text",
+        "yaml",
+        "yml"
+    ],
+    "cSpell.language": ",en",
+    "cSpell.dictionaries": [
+        "en", 
+        "html", 
+        "markdown", 
+        "latex", 
+        "plaintext"
+    ],
+    "cSpell.words": [
+        "Tasker",
+        "Whatsapp",
+        "Youtube",
+        "automations",
+        "flowscharts",
+        "thumbsup"
+    ], // formatting only supports LF line endings
+}
