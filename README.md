@@ -44,12 +44,7 @@ I also have in mind some useful integration ones between each others. E.g.
 
 [![Automate. Make your phone or tablet smarter with automation](./assets/automate-banner.png)](https://llamalab.com/automate/)
 
-<div style="float:left;">
-
-![Application icon](./assets/automate-icon-128.png)
-
-</div>
-<div style="margin-left: 150px">
+<img align="left" src="./assets/automate-icon-128.png" alt="Application icon"/>
 
 The free [Android™ application Automate]([https://link](https://play.google.com/store/apps/details?id=com.llamalab.automate))
 lets you automate various tasks on your smartphone or tablet.
@@ -61,4 +56,4 @@ made for [Tasker]([https://link](https://play.google.com/store/apps/details?id=n
 and
 [Locale]([https://link](https://play.google.com/store/apps/details?id=com.twofortyfouram.locale)).
 
-</div>
+<br clear="right"/>

@@ -21,9 +21,8 @@ MD026:
 # https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md033
 MD033:
     allowed_elements: [
-        "link",
-        "style",
         "center",
-        "span",
-        "font"
+        "font",
+        "img",
+        "br"
     ]
